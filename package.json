@@ -1,0 +1,13 @@
+{
+  "name": "rubix_pattern_figma_puzzle",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "watch": "esbuild src/code.ts --bundle --watch --outfile=code.js",
+    "build": "esbuild src/code.ts --bundle --minify --outfile=code.js"
+  },
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.64.0"
+  }
+}

@@ -1,0 +1,12 @@
+lockfileVersion: '6.0'
+
+devDependencies:
+  '@figma/plugin-typings':
+    specifier: ^1.64.0
+    version: 1.64.0
+
+packages:
+
+  /@figma/plugin-typings@1.64.0:
+    resolution: {integrity: sha512-oQUqYh790cXBP3x9Ejq0Wyp/AJZzYfjlB3Od8xuljL/lJFUsP+z4BSshB6nipYmQb6iih1+9d1PhgE9qxzuQQg==}
+    dev: true

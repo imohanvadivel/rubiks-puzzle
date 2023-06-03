@@ -1,0 +1,22 @@
+{
+  "name": "Rubik's Puzzle",
+  "id": "1246731991878697846",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "menu": [
+    {
+      "name": "Random Face",
+      "command": "random"
+    },
+    {
+      "name": "Country Flag",
+      "command": "country"
+    }
+  ]
+}
